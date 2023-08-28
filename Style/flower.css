@@ -1,0 +1,66 @@
+/* Header Part */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    padding-top: 180px;
+    padding-left: 250px;
+    /* padding-bottom: 90px; */
+    background-color: rgba(229, 84, 115, 0.10);
+    font-family: 'Lato', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+/* Section part of Header */
+
+.fower_container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 400px;
+
+}
+
+
+
+
+.flower_title {
+    color: #0c0c0c;
+    font-family: Lato;
+    font-size: 90px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 32px;
+
+}
+
+.flower_description {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-bottom: 32px;
+
+}
+
+.btn_primary {
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 40px;
+}
+
+.flower_basket>img {
+    height: 900px;
+
+}
