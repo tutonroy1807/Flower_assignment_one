@@ -152,6 +152,74 @@
 
 
 
+/* Extra part item */
+
+.bonus_part {
+    /* background-color: #E55473; */
+    margin: 150px 450px 0px 450px;
+    background: rgba(167, 33, 98, 0.15);
+    border-radius: 450px;
+
+
+
+}
+
+.extra_part_item {
+    display: flex;
+    justify-content: space-around;
+    /* border-radius: 220px; */
+    /* margin-top: 200px;
+    margin-left: 450px;
+    margin-left: 450px; */
+}
+
+.extra_part_title {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 24px;
+
+}
+
+.flower_name {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 24px;
+}
+
+.flower_01 {
+    /* padding: 50px; */
+
+}
+
+.flower_02 {
+    /* padding: 50px; */
+    margin-bottom: 220px;
+
+}
+
+.flower_price {
+    color: #272727;
+    /* text-align: center; */
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    margin-bottom: 24px;
+}
+
+
+
 
 
 
